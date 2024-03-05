@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\main.c(28,20): warning C4129: "T": nierozpoznany znak sekwencji ucieczki
+C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\main.c(28,20): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
+C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\main.c(28,20): warning C4129: "s": nierozpoznany znak sekwencji ucieczki
+C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\main.c(28,20): warning C4129: "C": nierozpoznany znak sekwencji ucieczki
+C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\main.c(28,20): warning C4129: "P": nierozpoznany znak sekwencji ucieczki
+LINK : fatal error LNK1168: nie można otworzyć pliku C:\Users\Tomek\Desktop\studia\1 rok\C\Proj_Sałapatek_Maczek_C\x64\Debug\Proj_Sałapatek_Maczek_C.exe do zapisu
